@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54454818835\\Desktop\\4SemSENAI\\Testes de Software\\Atividades - Criando testes com projeto de console\\Atividade - Convers\u00E3o de Temperatura\\TesteDeConversaoDeTemperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54454818835\\Desktop\\4SemSENAI\\Testes de Software\\ConversaoDeTemperatura.Test\\ConversorUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFE9473-61EC-4537-A0AD-496393455468}|ConversaoDeTemperatura.csproj|c:\\users\\54454818835\\desktop\\4semsenai\\testes de software\\atividades - criando testes com projeto de console\\atividade - convers\u00E3o de temperatura\\testedeconversaodetemperatura\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFE9473-61EC-4537-A0AD-496393455468}|ConversaoDeTemperatura.csproj|solutionrelative:conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\54454818835\\Desktop\\4SemSENAI\\Testes de Software\\ConversaoDeTemperatura.Test\\ConversorUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ConversaoDeTemperatura.Test\\ConversorUnitTest.cs",
+              "ToolTip": "C:\\Users\\54454818835\\Desktop\\4SemSENAI\\Testes de Software\\ConversaoDeTemperatura.Test\\ConversorUnitTest.cs",
+              "RelativeToolTip": "..\\..\\..\\ConversaoDeTemperatura.Test\\ConversorUnitTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:23:52.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversor.cs",
+              "DocumentMoniker": "C:\\Users\\54454818835\\Desktop\\4SemSENAI\\Testes de Software\\Atividades - Criando testes com projeto de console\\Atividade - Convers\u00E3o de Temperatura\\TesteDeConversaoDeTemperatura\\Conversor.cs",
+              "RelativeDocumentMoniker": "Conversor.cs",
+              "ToolTip": "C:\\Users\\54454818835\\Desktop\\4SemSENAI\\Testes de Software\\Atividades - Criando testes com projeto de console\\Atividade - Convers\u00E3o de Temperatura\\TesteDeConversaoDeTemperatura\\Conversor.cs",
+              "RelativeToolTip": "Conversor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:18:12.025Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

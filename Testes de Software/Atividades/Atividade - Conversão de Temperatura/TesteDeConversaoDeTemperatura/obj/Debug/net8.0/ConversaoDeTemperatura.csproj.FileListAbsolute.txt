@@ -1,0 +1,30 @@
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.exe
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.deps.json
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.runtimeconfig.json
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.pdb
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.sourcelink.json
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\refint\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.pdb
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ref\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.exe
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.deps.json
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.runtimeconfig.json
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\bin\Debug\net8.0\ConversaoDeTemperatura.pdb
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.sourcelink.json
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\refint\ConversaoDeTemperatura.dll
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.pdb
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ConversaoDeTemperatura.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\4SemSENAI\Testes de Software\Atividades - Criando testes com projeto de console\Atividade - Conversão de Temperatura\TesteDeConversaoDeTemperatura\obj\Debug\net8.0\ref\ConversaoDeTemperatura.dll
