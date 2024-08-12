@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-var nomes = new string[5];
+string[] nomes = new string[5];
 
 for (int i = 0; i < 5; i++)
 {
@@ -12,8 +12,15 @@ for (int i = 0; i < 5; i++)
         Console.WriteLine($"Escreva outro nome");
 
     string nome = Console.ReadLine()!;
+
+    nomes[i] = nome!;
   
     Console.WriteLine($"");
 }
 
-Console.WriteLine(nomes.First());
+Array.Sort(nomes);
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(nomes[i]);
+}
