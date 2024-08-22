@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 740px;
+    height: 495px;
+    align-items: center;
+
+
+    border-radius: 8px;
+    background: rgba(30, 18, 59, 1);
+}
