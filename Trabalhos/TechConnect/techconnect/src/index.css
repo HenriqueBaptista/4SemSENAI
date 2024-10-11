@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./Assets/Fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Kanit";
+  src: url("./Assets/Fonts/Kanit/Kanit-Medium.ttf") format("truetype");
+}
+
+* {
+  font-family: "Poppins", sans-serif; 
+}
+
+
+/* No seu arquivo CSS (ex: styles.css) */
+::-webkit-scrollbar {
+  width: 10px; /* Largura do scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3299f9; /* Cor do "thumb" (parte que se arrasta) */
+  border-radius: 10px; /* Bordas arredondadas */
+  
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(44, 44, 44); /* Cor da trilha (fundo do scrollbar) */
+}
+
+
+@keyframes slide-in {
+  from {
+      transform: translateX(100%);
+      opacity: 0; 
+  }
+  to {
+      transform: translateX(0);
+      opacity: 1; 
+  }
+}

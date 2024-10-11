@@ -1,0 +1,60 @@
+{
+  "publicacao": [
+    {
+      "id": "834a2bc8-00cf-423a-922f-4d1ffe8e2505",
+      "caption": "Meu primeiro post!!!",
+      "createdAt": "2024-10-09T20:09:21.237Z",
+      "nome": "Eduardo Felipe",
+      "userId": "f4fb5e77-95bc-4b11-ba4f-899a465a4889",
+      "username": "duduuz7",
+      "userImage": "https://avatars.githubusercontent.com/u/125310056?v=4",
+      "image": null
+    }
+  ],
+  "usuario": [
+    {
+      "id": "f4fb5e77-95bc-4b11-ba4f-899a465a4889",
+      "imagem": "https://avatars.githubusercontent.com/u/125310056?v=4",
+      "login": "duduuz7",
+      "nome": "Eduardo Felipe",
+      "ultimoAcesso": "2024-10-10T17:36:23.769Z"
+    },
+    {
+      "id": "da24b163-5ec0-4b75-9571-9955a69df996",
+      "imagem": "https://avatars.githubusercontent.com/u/125309990?v=4",
+      "login": "rebecarolinax",
+      "nome": "Rebeca Carolina",
+      "ultimoAcesso": "10/10/2024, 14:39:14"
+    }
+  ],
+  "curtida": [
+    {
+      "id": "45d1a514-2cae-4cfb-81df-2c7a74548837",
+      "publicacao": "834a2bc8-00cf-423a-922f-4d1ffe8e2505",
+      "usuario_id": "8fbe83d1-786c-493c-9f1b-d129dae9d374"
+    },
+    {
+      "id": "ec6bb96a-eb2e-4b83-9fab-7fd4c2c7d9bb",
+      "publicacao": "834a2bc8-00cf-423a-922f-4d1ffe8e2505",
+      "usuario_id": "da24b163-5ec0-4b75-9571-9955a69df996"
+    }
+  ],
+  "comentario": [
+    {
+      "id": "0223668c-e35d-489c-a73b-8808ff5f6ef3",
+      "postId": "834a2bc8-00cf-423a-922f-4d1ffe8e2505",
+      "userId": "da24b163-5ec0-4b75-9571-9955a69df996",
+      "userName": "Rebeca Carolina",
+      "descricao": "Opa",
+      "imagem": "https://avatars.githubusercontent.com/u/125309990?v=4"
+    },
+    {
+      "id": "f6efba02-49db-4c60-96cf-c943b80d5ffa",
+      "postId": "834a2bc8-00cf-423a-922f-4d1ffe8e2505",
+      "userId": "da24b163-5ec0-4b75-9571-9955a69df996",
+      "userName": "Rebeca Carolina",
+      "descricao": "Boa !!",
+      "imagem": "https://avatars.githubusercontent.com/u/125309990?v=4"
+    }
+  ]
+}
